@@ -2,4 +2,6 @@
 Created with CodeSandbox
 
 This is a simple example about infinite list.
-Suppose we have 10 items per page, and we need to fetch data for the 100th page, It  will loop 99 + 10 = 109 times in render() function
+Suppose we have 10 items per page, and we need to fetch data for the 100th page, It  will loop 99 + 10 = 109 times in the render function
+
+demo: https://codesandbox.io/s/github/nghiatrx/React-infinite-list/tree/master/
